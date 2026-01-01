@@ -16,3 +16,6 @@ sudo insmod sbull.ko
 ## 卸载
 sudo rmmod sbull.ko
 # Development branch for sbull driver
+## Testing Procedures
+1. Compile with 'make'
+2. Load module with 'sudo insmod sbull.ko'
